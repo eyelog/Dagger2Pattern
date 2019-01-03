@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger2Pattern</string>
+    <string name="put">put</string>
+    <string name="otherput">Other put</string>
+</resources>
